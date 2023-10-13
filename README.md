@@ -4,11 +4,11 @@ Location: You are not, *not* going to find me staying in *Vancouver*.
 Like doing some translation jobs.
 
 Current work to do
-- JP+ Set
-- RVG
-- Iron Horse
-- FIRS, XIS, AXIS and others
-- sleep
+- [ ] JP+ Set
+- [x] RVG
+- [ ] Iron Horse
+- [ ] FIRS, XIS, AXIS and others
+- [ ] sleep
 
 ![Background](background.png)
 <!---      
