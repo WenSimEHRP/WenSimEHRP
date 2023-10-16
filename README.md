@@ -3,7 +3,7 @@ Location: You are not, *not* going to find me staying in *Vancouver*.
 
 Like doing some translation jobs.
 
-Current work to do
+Current work
 - [ ] JP+ Set
 - [x] RVG
 - [ ] Iron Horse
