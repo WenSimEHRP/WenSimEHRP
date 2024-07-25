@@ -16,4 +16,5 @@ Currently fixing translations of some OpenTTD-related projects to *improve my la
   - [JP+ WINS (Stations)](https://github.com/WenSimEHRP/jppluswins)
 - Miscellaneous
   - [Greenscreen](https://github.com/wensimehrp/greenscreen)
+  - [Sprite Blender](https://github.com/WenSimEHRP/sprite-blend)
   
