@@ -16,4 +16,5 @@
 - Miscellaneous
   - [Greenscreen](https://github.com/wensimehrp/greenscreen)
   - [Sprite Blender](https://github.com/WenSimEHRP/sprite-blend)
+  - [JGRPP Wiki](https://github.com/wensimehrp/jgrpp-wiki)
   
