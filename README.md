@@ -8,6 +8,7 @@
 
 - [China Set](https://github.com/openttd-china-set)
   - [China Set: Stations](https://github.com/openttd-china-set/china-set-stations)
+  - [China Set: Tracks](https://github.com/openttd-china-set/china-set-tracks)
   - [OpenTTD Documents (Chinese)](https://github.com/OpenTTD-China-Set/OpenTTD-documents)
 - JP+ and JP related stuff
   - [JPTracks weMOD](https://github.com/wensimehrp/jptracks-wemod)
@@ -16,5 +17,8 @@
 - Miscellaneous
   - [Greenscreen](https://github.com/wensimehrp/greenscreen)
   - [Sprite Blender](https://github.com/WenSimEHRP/sprite-blend)
-  - [JGRPP Wiki](https://github.com/wensimehrp/jgrpp-wiki)
-  
+  - [JGRPP Wiki (Chinese)](https://github.com/wensimehrp/jgrpp-wiki)
+ 
+I have too many concurrent projects going on...
+Probably I should finish the translation projects first,
+then focus on NewGRF development.
