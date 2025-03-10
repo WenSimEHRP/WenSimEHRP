@@ -13,12 +13,8 @@
 - JP+ and JP related stuff
   - [JPTracks weMOD](https://github.com/wensimehrp/jptracks-wemod)
   - [JPTracks (original, archive)](https://github.com/WenSimEHRP/jptracks-5867-source)
-  - [JP+ WINS (Stations)](https://github.com/WenSimEHRP/jppluswins)
+  - [WINS Stations](https://github.com/WenSimEHRP/jppluswins)
 - Miscellaneous
   - [Greenscreen](https://github.com/wensimehrp/greenscreen)
   - [Sprite Blender](https://github.com/WenSimEHRP/sprite-blend)
   - [JGRPP Wiki (Chinese)](https://github.com/wensimehrp/jgrpp-wiki)
- 
-I have too many concurrent projects going on...
-Probably I should finish the translation projects first,
-then focus on NewGRF development.
