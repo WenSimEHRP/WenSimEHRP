@@ -9,4 +9,13 @@ Shell scripts are awesome :-)
 ### Devtime breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+Typst                              81 hrs 43 mins  ███████▓░░░░░░░░░░░░░░░░░   30.56 %
+Rust                               57 hrs 25 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+Other                              51 hrs 51 mins  █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+Python                             16 hrs 47 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Nix                                15 hrs 36 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+```
+
 <!--END_SECTION:waka-->
