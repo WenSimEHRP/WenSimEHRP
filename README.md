@@ -11,11 +11,11 @@ Shell scripts are awesome :-)
 <!--START_SECTION:waka-->
 
 ```txt
-Typst                              85 hrs 17 mins  ███████▓░░░░░░░░░░░░░░░░░   30.98 %
-Rust                               61 hrs 15 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-Other                              51 hrs 51 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
+Typst                              85 hrs 17 mins  ███████▓░░░░░░░░░░░░░░░░░   30.97 %
+Rust                               61 hrs 15 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Other                              51 hrs 51 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.83 %
 Python                             16 hrs 57 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Nix                                15 hrs 40 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Nix                                15 hrs 46 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
