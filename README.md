@@ -1,6 +1,6 @@
 ### Readme
 
-Rite code lah.
+This person writes some code for typst and sometimes OpenTTD.
 
 ### Devtime breakdown
 
