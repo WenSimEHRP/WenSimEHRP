@@ -7,13 +7,13 @@ This person writes some code for typst and sometimes OpenTTD.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2025 - To: 19 July 2025
+From: 01 March 2025 - To: 20 July 2025
 
-Total Time: 321 hrs 14 mins
+Total Time: 324 hrs 25 mins
 
-Typst                              117 hrs 15 mins ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.34 %
-Rust                               113 hrs 12 mins ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.25 %
-Other                              52 hrs 57 mins  ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.15 %
+Typst                              118 hrs 53 mins ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.50 %
+Rust                               114 hrs 24 mins ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.31 %
+Other                              52 hrs 57 mins  ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.03 %
 ```
 
 <!--END_SECTION:waka-->
