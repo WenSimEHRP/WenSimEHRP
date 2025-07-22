@@ -2,6 +2,8 @@
 
 This person writes some code for typst and sometimes OpenTTD.
 
+I'm interested in simulation / management games and Project Diva.
+
 ### Devtime breakdown
 
 <!--START_SECTION:waka-->
