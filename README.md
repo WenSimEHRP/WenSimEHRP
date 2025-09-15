@@ -11,15 +11,15 @@ Currently working on a set of railway system related typst packages.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2025 - To: 13 September 2025
+From: 01 March 2025 - To: 14 September 2025
 
-Total Time: 457 hrs 21 mins
+Total Time: 459 hrs 34 mins
 
-Typst                              195 hrs 42 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.71 %
-Rust                               124 hrs 49 mins ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.05 %
-Other                              61 hrs 40 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.88 %
-Nix                                21 hrs 4 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.06 %
-Python                             18 hrs 56 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.65 %
+Typst                              196 hrs 34 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.70 %
+Rust                               124 hrs 49 mins ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.94 %
+Other                              61 hrs 45 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.85 %
+Nix                                21 hrs 6 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.05 %
+Python                             18 hrs 56 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.63 %
 ```
 
 <!--END_SECTION:waka-->
