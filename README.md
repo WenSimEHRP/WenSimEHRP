@@ -3,8 +3,7 @@ I'm interested in simulation / management games and Project Diva.
 
 Currently working on a set of railway system related typst packages.
 
-- [Paiagram](https://github.com/wensimehrp/paiagram) - typst package for drawing timetables and timetable diagrams.
-- [NexusRail](https://github.com/wensimehrp/nexusrail) - WIP typst package for drawing track configuration diagrams.
+- [Paiagram](https://github.com/wensimehrp/paiagram) - ~~typst package for~~ application for drawing timetables and timetable diagrams.
 
 ### Devtime breakdown
 
