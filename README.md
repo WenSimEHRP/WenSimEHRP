@@ -1,7 +1,7 @@
-Student of UOJ/HU (Uni of Jialidun). Only Chinese speakers would understand this.
+Currently _Jyaridun-ing_.
 I'm interested in simulation / management games and Project Diva.
 
-Currently working on a set of railway system related typst packages.
+Currently working on a set of railway system related ~~typst packages~~ stuff.
 
 - [Paiagram](https://github.com/wensimehrp/paiagram) - ~~typst package for~~ application for drawing timetables and timetable diagrams.
 
