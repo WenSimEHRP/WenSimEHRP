@@ -4,6 +4,9 @@ I'm interested in simulation / management games and Project Diva.
 Currently working on a set of railway system related ~~typst packages~~ stuff.
 
 - [Paiagram](https://github.com/wensimehrp/paiagram) - ~~typst package for~~ application for drawing timetables and timetable diagrams.
+  (checkout <https://wensimehrp.github.io/Paiagram> for a non-functioning version!)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wensimehrp&layout=compact)
 
 ### Devtime breakdown
 
