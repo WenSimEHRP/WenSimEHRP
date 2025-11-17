@@ -1,12 +1,11 @@
-Currently _Jyaridun-ing_.
-I'm interested in simulation / management games and Project Diva.
+Dashing through the snow, in a one horse open sleigh... A month until _liberation_
 
-Currently working on a set of railway system related ~~typst packages~~ stuff.
+I'm interested in simulation/management games and Project Diva.
 
-- [Paiagram](https://github.com/wensimehrp/paiagram) - ~~typst package for~~ application for drawing timetables and timetable diagrams.
+- [Paiagram](https://github.com/wensimehrp/paiagram) - application for drawing timetables and timetable diagrams.
   (checkout <https://wensimehrp.github.io/Paiagram> for a version that does not work!)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wensimehrp&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wensimehrp&layout=compact&theme=radical)
 
 ### Devtime breakdown
 
