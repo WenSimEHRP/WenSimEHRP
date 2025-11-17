@@ -3,7 +3,7 @@ Dashing through the snow, in a one horse open sleigh... A month until _liberatio
 I'm interested in simulation/management games and Project Diva.
 
 - [Paiagram](https://github.com/wensimehrp/paiagram) - application for drawing timetables and timetable diagrams.
-  - The repo is currently repo and the commit history is absolutely miserable and disastrous, though maybe I should make it public some time to save my CI minutes.
+  - The repo is currently private and the commit history is absolutely miserable and disastrous, though maybe I should make it public some time to save my CI minutes.
   - checkout <https://wensimehrp.github.io/Paiagram> for an online version that does not work!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wensimehrp&layout=compact&theme=radical)
