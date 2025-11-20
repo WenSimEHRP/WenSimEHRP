@@ -1,5 +1,3 @@
-Dashing through the snow, in a one horse open sleigh... A month until _liberation_
-
 I'm interested in simulation/management games and Project Diva.
 
 - [Paiagram](https://github.com/wensimehrp/paiagram) - application for drawing timetables and timetable diagrams.
