@@ -4,7 +4,7 @@ I'm interested in simulation/management games and Project Diva.
   - The repo is currently private and the commit history is absolutely miserable and disastrous, though maybe I should make it public some time to save my CI minutes.
   - checkout <https://wensimehrp.github.io/Paiagram> for an online version that does _not_ work!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wensimehrp&layout=compact&theme=radical)
+![GitHub Card](https://githubcard.com/wensimehrp.svg)
 
 ### Devtime breakdown
 
