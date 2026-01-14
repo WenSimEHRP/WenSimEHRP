@@ -10,7 +10,7 @@ I'm interested in simulation/management games and Project Diva.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2025 - To: 11 January 2026
+From: 01 March 2025 - To: 13 January 2026
 
 Total Time: 852 hrs 28 mins
 
