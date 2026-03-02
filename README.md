@@ -4,6 +4,8 @@ I'm interested in simulation/management games and Project Diva.
   - checkout <https://wensimehrp.github.io/Paiagram> for an online version!
   - It also autosaves, so you don't need to manually maintain the editing state yourself. (Currently the only way to remove those autosaves is by manually clearing the cache, but don't worry -- it would be fixed soon.)
 
+Also -- if you are looking at my contributions, it's bloated -- GitHub has a bug that counted my commits multiple times :-(.
+
 ![GitHub Card](https://githubcard.com/wensimehrp.svg)
 
 ### Devtime breakdown
