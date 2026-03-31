@@ -1,6 +1,6 @@
 I'm interested in simulation/management games and Project Diva.
 
-- [Paiagram](https://github.com/wensimehrp/paiagram) - application for drawing timetables and timetable diagrams.
+- [Paiagram](https://github.com/wensimehrp/paiagram) - application for visualizing timetables and drawing marey charts.
   - checkout <https://paiagram.com> for an online version!
   - ~~It also autosaves, so you don't need to manually maintain the editing state yourself. (Currently the only way to remove those autosaves is by manually clearing the cache, but don't worry -- it would be fixed soon.)~~ Autosave would be restored soon.
 
