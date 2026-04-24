@@ -2,7 +2,8 @@ I'm interested in simulation games, management games, Project Mirai, Project Div
 
 You're looking at a _baka_'s account, which means that anything from this account is untrustworthy and unreliable.
 
-- [Paiagram](https://github.com/wensimehrp/paiagram) - application for visualizing timetables and drawing marey charts.
+- [Paiagram](https://github.com/wensimehrp/paiagram) - application for visualizing timetables and drawing marey charts.Some weird variation of Wu Chinese (near nation)
+
   - checkout <https://paiagram.com> for an online version!
 - prprprprprprprprprprprprprprprprprprprprprprprpr
 
@@ -45,3 +46,5 @@ TOML                               27 hrs 24 mins        ⣦⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+![](./_MG_3019.avif)
