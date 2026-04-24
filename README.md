@@ -1,12 +1,32 @@
-I'm interested in simulation/management games and Project Diva.
+I'm interested in simulation games, management games, Project Mirai, Project Diva, and building webapps that don't use any web technologies except maybe WebAssembly and WebGPU.
+
+You're looking at a _baka_'s account, which means that anything from this account is untrustworthy and unreliable.
 
 - [Paiagram](https://github.com/wensimehrp/paiagram) - application for visualizing timetables and drawing marey charts.
   - checkout <https://paiagram.com> for an online version!
-  - ~~It also autosaves, so you don't need to manually maintain the editing state yourself. (Currently the only way to remove those autosaves is by manually clearing the cache, but don't worry -- it would be fixed soon.)~~ Autosave would be restored soon.
+- prprprprprprprprprprprprprprprprprprprprprprprpr
 
-Also -- if you are looking at my contributions, it's bloated -- GitHub has a bug that counted my commits multiple times :-(.
+### Languages
 
-![GitHub Card](https://githubcard.com/wensimehrp.svg)
+- Typst
+- Mandarin Chinese (nation)
+- Some weird variation of Wu Chinese (near nation)
+- English (dial conservation) <!-- the spelling here is intended -->
+- Rust (just getting started)
+
+### Connections
+
+- GitHub@WenSimEHRP (the one you're already looking at)
+- Twitter@WenSimEHRP
+- <wensimehrp@gmail.com>
+
+### Tools
+
+- Laptop
+- Mobile phone
+- Hands
+- A table and a chair, or if I can't find them, the floor and my laps
+- Clothes, to keep myself warm
 
 ### Devtime breakdown
 
