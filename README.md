@@ -2,9 +2,11 @@ I'm interested in simulation games, management games, Project Mirai, Project Div
 
 You're looking at a _baka_'s account, which means that anything from this account is untrustworthy and unreliable.
 
-- [Paiagram](https://github.com/wensimehrp/paiagram) - application for visualizing timetables and drawing marey charts.Some weird variation of Wu Chinese (near nation)
-
+- [Paiagram](https://paiagram.com) ([repo](https://github.com/wensimehrp/paiagram))
+  - application for visualizing timetables and drawing marey charts.
   - checkout <https://paiagram.com> for an online version!
+- [Robosign](https://paiagram.com/robosign) ([repo](https://github.com/wensimehrp/robosign))
+  - Online tool for generating station signs. Powered by [Typst](https://typst.app)
 - prprprprprprprprprprprprprprprprprprprprprprprpr
 
 ### Languages
@@ -14,6 +16,7 @@ You're looking at a _baka_'s account, which means that anything from this accoun
 - Some weird variation of Wu Chinese (near nation)
 - English (dial conservation) <!-- the spelling here is intended -->
 - Rust (just getting started)
+- I hate TypeScript
 
 ### Connections
 
@@ -23,9 +26,9 @@ You're looking at a _baka_'s account, which means that anything from this accoun
 
 ### Tools
 
-- Laptop
-- Mobile phone
-- Hands
+- Laptop, for developing stuff
+- Mobile phone, for testing stuff
+- Hands, for obvious reasons
 - A table and a chair, or if I can't find them, the floor and my laps
 - Clothes, to keep myself warm
 
