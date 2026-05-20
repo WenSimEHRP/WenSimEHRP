@@ -1,4 +1,4 @@
-I'm interested in simulation games, management games, Project Mirai, Project Diva, and building webapps that don't use any web technologies except maybe WebAssembly and WebGPU.
+I'm interested in simulation games, management games, Project Mirai, and Project Diva.
 
 You're looking at a _baka_'s account, which means that anything from this account is untrustworthy and unreliable.
 
@@ -7,20 +7,21 @@ You're looking at a _baka_'s account, which means that anything from this accoun
   - checkout <https://paiagram.com> for an online version!
 - [Robosign](https://paiagram.com/robosign) ([repo](https://github.com/wensimehrp/robosign))
   - Online tool for generating station signs. Powered by [Typst](https://typst.app)
+- [Otter Docs](https://wensimehrp.github.io/otter-docs)
+  - Typst Documentation Tool in pure Typst
 - prprprprprprprprprprprprprprprprprprprprprprprpr
 
 ### Languages
 
 - Typst
-- Mandarin Chinese (nation)
-- Some weird variation of Wu Chinese (near nation)
-- English (dial conservation) <!-- the spelling here is intended -->
-- Rust (just getting started)
-- I hate TypeScript
+- Rust
+- Mandarin Chinese (native)
+- English (daily conversation, also my worst language)
+- Some sort of weird web stuff
 
 ### Connections
 
-- GitHub@WenSimEHRP (the one you're already looking at)
+- GitHub@wensimehrp (the one you're already looking at)
 - Twitter@WenSimEHRP
 - <wensimehrp@gmail.com>
 
