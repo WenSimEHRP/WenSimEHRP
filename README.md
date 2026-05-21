@@ -16,8 +16,9 @@ You're looking at a _baka_'s account, which means that anything from this accoun
 - Typst
 - Rust
 - Mandarin Chinese (native)
-- English (daily conversation, also my worst language)
-- Some sort of weird web stuff
+- English (just getting started)
+- A variation of Wu Chinese
+- i might consider studying japanese but currently im just not motivated
 
 ### Connections
 
